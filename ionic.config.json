@@ -1,0 +1,7 @@
+{
+  "name": "Yahtzee",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
