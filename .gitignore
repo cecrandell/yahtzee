@@ -1,0 +1,6 @@
+ios
+/build
+package-lock.json
+node_modules
+/Assets.xcassets
+.DS_store
