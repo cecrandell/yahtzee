@@ -15,8 +15,6 @@ While a digital scorecard would eliminate gifting her parents with Yahtzee notep
 
 ![yahtzee.gif](support/yahtzee.gif)
 
-Find the full demo here on [YouTube](https://www.youtube.com/watch?v=oexg46TRvtY).
-
 **How the app is organised**
 
 - **.gitignore** - indicates which files to omit from this GitHub repository, such as the `ios` and `build` folders
