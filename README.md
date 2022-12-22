@@ -13,7 +13,9 @@ While a digital scorecard would eliminate gifting her parents with Yahtzee notep
 - Automatically calculate the bonus
 - Restart the game
 
-[![YouTube](https://img.youtube.com/vi/oexg46TRvtY/0.jpg)](https://www.youtube.com/watch?v=oexg46TRvtY)
+![yahtzee.gif](support/yahtzee.gif)
+
+Find the full demo here on [YouTube](https://www.youtube.com/watch?v=oexg46TRvtY).
 
 **How the app is organised**
 
